@@ -1,2 +1,2 @@
-class Api::V1::PhotosController < ApplicationController
+class Api::V1::PhotosController < ApiController
 end
